@@ -1,2 +1,3 @@
 go env | grep GOPATH        //For outputting go path this (OP:GOPATH="/Users/utkarshsharma/go").
 mkdir -p $HOME/go/{bin,src,pkg}
+go mod init     //Inside the directory where you want to initialize all the pacakge.
