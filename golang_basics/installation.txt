@@ -1,0 +1,1 @@
+1. Go to golang.ord and dowload app according to your platform
